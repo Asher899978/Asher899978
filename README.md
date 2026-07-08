@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Asher
 
-<!--
-**Asher899978/Asher899978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我目前不主要做编程，但会用 GitHub 来整理和展示一些长期项目、学习记录和作品。
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in AI tools, productivity, learning, and creative projects
+- Exploring how to organize ideas and personal work in public
+- This profile is a small home for my notes, experiments, and future projects
+
+## Links
+
+- GitHub: https://github.com/Asher899978
